@@ -7,7 +7,7 @@
 <body>
 	<?php echo "hello world!";?>
 	<br/>
-	<a class="btn btn-success">กทฎ“ü่</a>
+	<a class="btn btn-success" href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t10000000n5T2">ไปใใๅ…ฅๆ</a>
 
 	<!-- JavaScript 4.1.3 -->
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
